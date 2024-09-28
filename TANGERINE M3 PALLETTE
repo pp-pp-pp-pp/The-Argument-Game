@@ -1,0 +1,118 @@
+M3 PALETTES
+TANGERINE PALLETTE
+color_mappings = [
+    ("#FF0000", "Red"),
+    ("#FF0080", "Pink"),
+    ("#FF8080", "Infrared"),
+    ("#FF8000", "Orange"),
+    ("#00FF80", "Mint"),
+    ("#80FF80", "Camo"),
+    ("#00FF00", "Lime"),
+    ("#00FFFF", "Cyan"),
+    ("#8000FF", "Violet"),
+    ("#FF80FF", "Ultraviolet"),
+    ("#0000FF", "Blue"),
+    ("#0080FF", "Azure"),
+    ("#8080FF", "Indigo"),
+    ("#FF00FF", "Magenta"),
+    ("#80FF00", "Chartreuse"),
+    ("#80FFFF", "Aqua"),
+    ("#FFFF00", "Yellow"),
+    ("#FFFF80", "Mustard"),
+    ("#000000", "Null"),
+    ("#808080", "Nill"),
+    ("#FFFFFF", "Mill"),
+    ("#FF4700", "Tangerine"),
+    
+    
+    
+    # Red
+    ("#FF0000", "Red 1"),
+    ("#800000", "Red 2"),
+    ("#200000", "Red 3"),
+    ("#100000", "Red 4"),  # Added
+    # Lime
+    ("#00FF00", "Lime 1"),
+    ("#008500", "Lime 2"),
+    ("#002000", "Lime 3"),
+    ("#001000", "Lime 4"),  # Added
+    # Blue
+    ("#0000FF", "Blue 1"),
+    ("#000080", "Blue 2"),
+    ("#000020", "Blue 3"),
+    ("#000010", "Blue 4"),  # Added
+    # Cyan
+    ("#00FFFF", "Cyan 1"),
+    ("#008080", "Cyan 2"),
+    ("#002020", "Cyan 3"),
+    ("#001010", "Cyan 4"),  # Added
+    # Magenta
+    ("#FF00FF", "Magenta 1"),
+    ("#800080", "Magenta 2"),
+    ("#200020", "Magenta 3"),
+    ("#100010", "Magenta 4"),  # Added
+    # Yellow
+    ("#FFFF00", "Yellow 1"),
+    ("#808000", "Yellow 2"),
+    ("#202000", "Yellow 3"),
+    ("#101000", "Yellow 4"),  # Added
+    # Orange
+    ("#FF7F00", "Orange 1"),
+    ("#804000", "Orange 2"),
+    ("#201000", "Orange 3"),
+    ("#100800", "Orange 4"),  # Added
+    # Pink
+    ("#FF0080", "Pink 1"),
+    ("#800040", "Pink 2"),
+    ("#200010", "Pink 3"),
+    ("#100008", "Pink 4"),  # Added
+    # Thalo
+    ("#00FF80", "Thalo 1"),
+    ("#008040", "Thalo 2"),
+    ("#002010", "Thalo 3"),
+    ("#001008", "Thalo 4"),  # Added
+    # Violet
+    ("#8000FF", "Violet 1"),
+    ("#400080", "Violet 2"),
+    ("#100020", "Violet 3"),
+    ("#080010", "Violet 4"),  # Added
+    # Chartreuse
+    ("#80FF00", "Chartreuse 1"),
+    ("#408000", "Chartreuse 2"),
+    ("#102000", "Chartreuse 3"),
+    ("#081000", "Chartreuse 4"),  # Added
+    # Cerulean
+    ("#0080FF", "Cerulean 1"),
+    ("#004080", "Cerulean 2"),
+    ("#001020", "Cerulean 3"),
+    ("#000810", "Cerulean 4"),  # Added
+    # Infrared
+    ("#FF8080", "Infrared 1"),
+    ("#804040", "Infrared 2"),
+    ("#201010", "Infrared 3"),
+    ("#100808", "Infrared 4"),  # Added
+    # Camo
+    ("#80FF80", "Camo 1"),
+    ("#408040", "Camo 2"),
+    ("#102010", "Camo 3"),
+    ("#081008", "Camo 4"),  # Added
+    # Indigo
+    ("#8080FF", "Indigo 1"),
+    ("#404080", "Indigo 2"),
+    ("#101020", "Indigo 3"),
+    ("#080810", "Indigo 4"),  # Added
+    # Aqua
+    ("#80FFFF", "Aqua 1"),
+    ("#408080", "Aqua 2"),
+    ("#102032", "Aqua 3"),
+    ("#081018", "Aqua 4"),  # Added
+    # Mustard
+    ("#FFFF80", "Mustard 1"),
+    ("#808040", "Mustard 2"),
+    ("#202010", "Mustard 3"),
+    ("#101008", "Mustard 4"),  # Added
+    # Ultraviolet
+    ("#FF80FF", "Ultraviolet 1"),
+    ("#804080", "Ultraviolet 2"),
+    ("#201020", "Ultraviolet 3"),
+    ("#100810", "Ultraviolet 4"),  # Added
